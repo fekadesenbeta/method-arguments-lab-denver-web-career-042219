@@ -2,6 +2,7 @@ def introduction(name)
   puts "Hi, my name is()"
 end
 
+introduction(Fekade)
 
 
 def introduction()
