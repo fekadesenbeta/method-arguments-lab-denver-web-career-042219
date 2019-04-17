@@ -4,6 +4,3 @@ end
 
 introduction(Fekade)
 
-
-def introduction()
-end
